@@ -16,14 +16,20 @@ Play with Skin Diseases Image classification app here: * link to the deployed ap
 ## How to Run the App
 ### Method 1
 •Run the app.py file
+
 •Go to http://localhost:5000/ on your browser
+
 •Use the Choose button to browse and upload the image you want
+
 •Hit Predict to get the results.
 
 ### Method 2
 •Deploy it to Azure Webapp or Heroku App through github repository
+
 •Go to url generated after deployment on your browser
+
 •Use the Choose button to browse and upload the image you want
+
 •Hit Predict to get the results.
 
 ## Libraries used
@@ -38,13 +44,13 @@ Play with Skin Diseases Image classification app here: * link to the deployed ap
 • gunicorn
 
 ## ipynb file name
-This is the Jupyter notebook used to define and train the model: *link to the final notebook
+This is the Jupyter notebook used to define and train the model: (link to the final notebook)
 
 ## Application
-This is the flask app that needs to run in order to use the webapp: * link to the app.py
+This is the flask app that needs to run in order to use the webapp: (link to the app.py)
 
 ## FInal saved model name
-Contains the weights of the best model: * link to the .h5 file
+Contains the weights of the best model: (link to the .h5 file)
 
 ## CNN Model Summary
 * Image of the final model's summary
