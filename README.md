@@ -4,7 +4,7 @@
 Skin diseases come in various forms and can significantly impact an individual's overall health and well-being. Accurate diagnosis is crucial, as some skin disorders, such as various types of skin cancer, can be life-threatening. Dermatologists often face challenges in categorizing and diagnosing skin conditions accurately, which is why cutting-edge technologies like deep learning algorithms are being explored to enhance dermatological diagnostics. This project aims to build a Convolutional Neural Network (CNN) model that can classify nine different types of skin diseases with over 70% precision.
 
 ## Data
-* link to the data folder
+[Data](data_cnn)
 
 ## Model Architecture
 * (image of final model architecture)
