@@ -15,7 +15,7 @@ The CNN model architecture above is designed to handle the multiclass classifica
 ### Method 1
 •Run the [script](skincondition.py) file
 
-•Go to [link to URL]()on your browser
+•Go to [app URL]() on your browser
 
 •Use the Choose button to browse and upload the image you want
 
@@ -47,16 +47,14 @@ The CNN model architecture above is designed to handle the multiclass classifica
 
 • seaborn
 
-
-
-## ipynb file name
-This is the Jupyter notebook used to define and train the model: (link to the final notebook)
+##  Multi_Class_Image_Classification_Project_Final.ipynb
+This is the Notebook used to define and train the model: [Final Notebook]()
 
 ## Application
-This is the flask app that needs to run in order to use the webapp: (link to the app.py)
+This is the streamlit app that needs to run in order to use the webapp: [App](skincondition.py)
 
 ## FInal saved model name
-Contains the weights of the best model: (link to the .h5 file)
+Contains the weights of the best model: [Best model]()
 
 ## CNN Model Summary
 * Image of the final model's summary
