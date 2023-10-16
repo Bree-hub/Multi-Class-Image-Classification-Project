@@ -57,11 +57,18 @@ This is the streamlit app that needs to run in order to use the webapp: [App](sk
 Contains the weights of the best model: [Best model]()
 
 ## CNN Model Summary
-* Image of the final model's summary
+![Model Summary](images/image3.jpg)
   
 ## Results
 * This section will present the tabular rep of the performance metrics of the CNN model, including precision, recall, and accuracy
 
 ## Conclusion
-* summarize the achievements, the model's potential impact on dermatological diagnostics, and potential areas for future research and improvement.
+* Precision of 73% demonstrates the potential of our model in enhancing dermatological diagnostics and ultimately improving patient care.
+  
+## Recommendations
+To build upon our success and advance the model, we recommend the following:
+* The model can be used to predict Basal cell carcinoma and Nevus because it shows good predictions
+* Obtain a larger image data for training the model.
+* Seek data from multiple sources and geographical regions
+* Collect data that spans different time periods and age groups.
   
