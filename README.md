@@ -13,9 +13,9 @@ The CNN model architecture above is designed to handle the multiclass classifica
 
 ## How to Run the App
 ### Method 1
-•Run the app.py file
+•Run the [script](skincondition.py) file
 
-•Go to http://localhost:5000/ on your browser
+•Go to [link to URL]()on your browser
 
 •Use the Choose button to browse and upload the image you want
 
@@ -32,14 +32,21 @@ The CNN model architecture above is designed to handle the multiclass classifica
 
 ## Libraries used
 • numpy
+
 • keras
+
 • tensorflow-cpu==2.5.0
+
 • pandas
+
 • matplotlib
+
 • pillow
-• flask
+
+• streamlit
+
 • seaborn
-• gunicorn
+
 
 ## ipynb file name
 This is the Jupyter notebook used to define and train the model: (link to the final notebook)
