@@ -2,6 +2,7 @@
 ![image](images/image1.jpg)
 
 Skin diseases come in various forms and can significantly impact an individual's overall health and well-being. Accurate diagnosis is crucial, as some skin disorders, such as various types of skin cancer, can be life-threatening. Dermatologists often face challenges in categorizing and diagnosing skin conditions accurately, which is why cutting-edge technologies like deep learning algorithms are being explored to enhance dermatological diagnostics. This project aims to build a Convolutional Neural Network (CNN) model that can classify nine different types of skin diseases with over 70% precision.
+We applied data augmentation to alleviate the overfitting and class-imbalance problems. The classifier has been built with transfer learning technique using a pretrained VGG16 model. The final classifer achieved a precision of 73.2% on validation data. You can check out the notebook that goes along to follow all the steps which have been taken to build the model.
 
 ## Data
 The classifier has been trained using International Skin Imaging Collaboration (ISIC) Skin Cancer dataset: [data](data_cnn) which contains 2357 images of malignant and benign oncological diseases with nine categories of pigmented skin lesions/skin diseases.
