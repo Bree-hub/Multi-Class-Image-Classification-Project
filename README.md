@@ -64,7 +64,7 @@ Contains the weights of the best model: [Best model]()
 ![Mpdel comparison](images/image4.jpg)
 
 ## Conclusion
-A validation precisin of 73%  implies that our model is able to predict correct classes of the nine classes with a 73% probability of success. There is a 27% chance of our model classifying an image into a wrong class.
+A validation precision of 73%  implies that our model is able to predict correct classes of the nine classes with a 73% probability of success. There is a 27% chance of our model classifying an image into a wrong class.
 
   
 ## Recommendations
