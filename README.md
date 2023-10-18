@@ -14,7 +14,7 @@ The CNN model architecture above is designed to handle the multiclass classifica
 
 ## How to Run the App
 ### Method 1
-•Run the [script](skincondition.py) file
+•Run the [script](CNN.py) file
 
 •Go to [app URL]() on your browser
 
@@ -49,10 +49,10 @@ The CNN model architecture above is designed to handle the multiclass classifica
 • seaborn
 
 ##  Multi_Class_Image_Classification_Project_Final.ipynb
-This is the Notebook used to define and train the model: [Final Notebook]()
+This is the Notebook used to define and train the model: [Final Notebook](Multi_Class_Image_Classification_Project_Final_(1).ipynb)
 
 ## Application
-This is the streamlit app that needs to run in order to use the webapp: [App](skincondition.py)
+This is the streamlit app that needs to run in order to use the webapp: [App](CNN.py)
 
 ## FInal saved model name
 Contains the weights of the best model: [Best model]()
@@ -61,10 +61,11 @@ Contains the weights of the best model: [Best model]()
 ![Model Summary](images/image3.jpg)
   
 ## Results
-* This section will present the tabular rep of the performance metrics of the CNN model, including precision, recall, and accuracy
+![Mpdel comparison](images/image4.jpg)
 
 ## Conclusion
-* Precision of 73% demonstrates the potential of our model in enhancing dermatological diagnostics and ultimately improving patient care.
+A validation precisin of 73%  implies that our model is able to predict correct classes of the nine classes with a 73% probability of success. There is a 27% chance of our model classifying an image into a wrong class.
+
   
 ## Recommendations
 To build upon our success and advance the model, we recommend the following:
