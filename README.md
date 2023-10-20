@@ -69,8 +69,8 @@ A validation precision of 73%  implies that our model is able to predict correct
   
 ## Recommendations
 To build upon our success and advance the model, we recommend the following:
-* The model can be used to predict Basal cell carcinoma and Nevus because it shows good predictions
+* The model can be used to predict Basal cell carcinoma and Nevus because it shows good predictions.
 * Obtain a larger image data for training the model.
-* Seek data from multiple sources and geographical regions
+* Seek data from multiple sources and geographical regions.
 * Collect data that spans different time periods and age groups.
   
